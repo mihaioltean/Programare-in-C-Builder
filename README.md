@@ -1,7 +1,7 @@
 # Programare in C++ Builder
 Examples from book
 
-## Author: 
+## Authors: 
 Mihai Oltean, Crina Grosan
 
 ## Book title (in Romanian):
