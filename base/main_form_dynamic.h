@@ -11,7 +11,9 @@ class t_my_form1: public TCustomForm{
 	void __fastcall button1_on_click(System::TObject* Sender);
 
 public:
-	__fastcall t_my_form1(TComponent* Owner, int a);
+	__fastcall t_my_form1(TComponent* Owner, int dummy_param);
+	// Note the dummy_param.
+	// It is critical to have it if you want to create forms dynamically
 };
 //---------------------------------------------------------------------------
 
