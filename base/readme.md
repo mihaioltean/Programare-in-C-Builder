@@ -7,3 +7,5 @@ Shows how to create an application that has a form created dynamically at runtim
 3. Add the [main_form_dynamic.cpp](main_form_dynamic.cpp) file from this folder (Right click on Project name inside the Project Manager and choose Add).
 4. Replace the content of the Project1.cpp with the content of the [main.cpp](main.cpp) file from this folder.
 5. Compile it and Run it (Press F9).
+
+A movie with this application can be seen on YouTube: [https://youtu.be/7Obwq4__zOE](https://youtu.be/7Obwq4__zOE)
