@@ -1,7 +1,4 @@
 #include "main_form_dynamic.h"
-#include "res.h"
-//---------------------------------------------------------------------------
-#pragma package(smart_init)
 //---------------------------------------------------------------------------
 __fastcall t_my_form1::t_my_form1(TComponent* Owner, int a):TCustomForm(Owner, a)
 {
