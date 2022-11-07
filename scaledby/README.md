@@ -8,3 +8,7 @@ Shows how to create an application that has a form created dynamically at runtim
 4. Replace the content of the Project1.cpp with the content of the [src/project.cpp](project.cpp) file from this folder.
 5. Add the [resources.rc](resources.rc) file to the project.
 6. Compile it and Run it (Press F9).
+
+A screenshot of the result should be:
+
+![ScaleBy](scaleby.png)

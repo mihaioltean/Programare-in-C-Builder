@@ -5,6 +5,7 @@ __fastcall t_my_form1::t_my_form1(TComponent* Owner, int a):
 {
 	Caption = "ScaleBy example";
 	BorderStyle = bsDialog;
+	Position = poScreenCenter;
 
 	int scaled_margin = MulDiv(10, Screen->PixelsPerInch, 96);
 
