@@ -10,7 +10,8 @@
     <Transaction>2022-11-07 16:10:47.000.079,=E:\books\Programare-in-C-Builder\scaledby\main_form_dynamic.cpp</Transaction>
     <Transaction>2022-11-07 16:15:56.000.985,=E:\books\Programare-in-C-Builder\scaledby\resources.rc</Transaction>
     <Transaction>2022-11-07 16:16:09.000.151,E:\books\Programare-in-C-Builder\scaledby\project.cbproj=E:\books\Programare-in-C-Builder\scaledby\main.cbproj</Transaction>
-  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="main_form_dynamic.cpp"/>
     <File Path="project.cpp"/>
     <File Path="project.res"/>
