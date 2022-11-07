@@ -2,7 +2,7 @@
 Examples from book
 
 ## Authors: 
-Mihai Oltean, Crina Grosan
+Mihai Oltean, Crina Groșan
 
 ## Book title (in Romanian):
 Programare in C++ Builder
