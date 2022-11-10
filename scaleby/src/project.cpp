@@ -9,6 +9,8 @@ WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 {
 	try
 	{
+		SetProcessDPIAware();
+
 		Application->Initialize();
 		Application->MainFormOnTaskBar = true;
 
